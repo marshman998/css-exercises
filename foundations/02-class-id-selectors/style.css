@@ -1,0 +1,19 @@
+.alert {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#hello {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.contents {
+    font-size: 24px;
+}
+
+#test {
+    background-color: rgb(143, 237, 143);
+    font-size: 24px;
+    font-weight: bold;
+}
